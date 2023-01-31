@@ -1,0 +1,614 @@
+15-12-2022 09:58:20 -> Conectando...
+15-12-2022 09:58:20 -> Verificando conexao com o banco...
+15-12-2022 09:58:20 -> Banco selecionado!
+15-12-2022 10:00:38 -> Conectando...
+15-12-2022 10:00:38 -> Verificando conexao com o banco...
+15-12-2022 10:00:38 -> Banco selecionado!
+15-12-2022 10:28:16 -> Conectando...
+15-12-2022 10:28:16 -> Verificando conexao com o banco...
+15-12-2022 10:28:17 -> Banco selecionado!
+15-12-2022 10:31:15 -> Conectando...
+15-12-2022 10:31:15 -> Verificando conexao com o banco...
+15-12-2022 10:31:15 -> Banco selecionado!
+15-12-2022 10:31:15 -> Erro ao chamar funcao da crud.
+15-12-2022 10:33:05 -> Conectando...
+15-12-2022 10:33:05 -> Verificando conexao com o banco...
+15-12-2022 10:33:05 -> Banco selecionado!
+15-12-2022 10:33:05 -> Erro ao chamar funcao da crud.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Mukansanga' at line 1
+15-12-2022 10:35:21 -> Conectando...
+15-12-2022 10:35:21 -> Verificando conexao com o banco...
+15-12-2022 10:35:21 -> Banco selecionado!
+15-12-2022 10:49:19 -> Conectando...
+15-12-2022 10:49:19 -> Verificando conexao com o banco...
+15-12-2022 10:49:19 -> Banco selecionado!
+15-12-2022 10:50:18 -> Conectando...
+15-12-2022 10:50:18 -> Verificando conexao com o banco...
+15-12-2022 10:50:18 -> Banco selecionado!
+15-12-2022 10:52:29 -> Conectando...
+15-12-2022 10:52:29 -> Verificando conexao com o banco...
+15-12-2022 10:52:29 -> Banco selecionado!
+15-12-2022 10:53:17 -> Conectando...
+15-12-2022 10:53:17 -> Verificando conexao com o banco...
+15-12-2022 10:53:17 -> Banco selecionado!
+15-12-2022 10:53:49 -> Conectando...
+15-12-2022 10:53:49 -> Verificando conexao com o banco...
+15-12-2022 10:53:49 -> Banco selecionado!
+15-12-2022 10:54:45 -> Conectando...
+15-12-2022 10:54:45 -> Verificando conexao com o banco...
+15-12-2022 10:54:45 -> Banco selecionado!
+15-12-2022 10:55:48 -> Conectando...
+15-12-2022 10:55:48 -> Verificando conexao com o banco...
+15-12-2022 10:55:48 -> Banco selecionado!
+15-12-2022 10:56:22 -> Conectando...
+15-12-2022 10:56:22 -> Verificando conexao com o banco...
+15-12-2022 10:56:22 -> Banco selecionado!
+15-12-2022 10:57:01 -> Conectando...
+15-12-2022 10:57:01 -> Verificando conexao com o banco...
+15-12-2022 10:57:01 -> Banco selecionado!
+15-12-2022 11:51:03 -> Conectando...
+15-12-2022 11:51:03 -> Verificando conexao com o banco...
+15-12-2022 11:51:03 -> Banco selecionado!
+15-12-2022 11:51:03 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 11:51:03 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 11:51:03 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 11:51:03 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 11:51:03 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 11:51:03 -> Erro ao chamar funcao da crud.
+'module' object is not callable
+15-12-2022 11:51:37 -> Conectando...
+15-12-2022 11:51:37 -> Verificando conexao com o banco...
+15-12-2022 11:51:37 -> Banco selecionado!
+15-12-2022 11:51:37 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 11:51:37 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 11:51:37 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 11:51:37 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 11:51:37 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 11:51:37 -> Erro ao chamar funcao da crud.
+'module' object is not callable
+15-12-2022 11:53:36 -> Conectando...
+15-12-2022 11:53:36 -> Verificando conexao com o banco...
+15-12-2022 11:53:36 -> Banco selecionado!
+15-12-2022 11:53:36 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 11:53:36 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 11:53:36 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 11:53:36 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 11:53:36 -> Erro ao chamar funcao da crud.
+'module' object is not callable
+15-12-2022 11:54:18 -> Conectando...
+15-12-2022 11:54:18 -> Verificando conexao com o banco...
+15-12-2022 11:54:18 -> Banco selecionado!
+15-12-2022 11:54:18 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 11:54:18 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 11:54:18 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 11:54:18 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 11:54:18 -> Erro ao chamar funcao da crud.
+'module' object is not callable
+15-12-2022 14:13:41 -> Conectando...
+15-12-2022 14:13:41 -> Verificando conexao com o banco...
+15-12-2022 14:13:41 -> Banco selecionado!
+15-12-2022 14:13:41 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 14:13:41 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 14:13:41 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 14:13:41 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 14:14:41 -> Conectando...
+15-12-2022 14:14:41 -> Verificando conexao com o banco...
+15-12-2022 14:14:41 -> Banco selecionado!
+15-12-2022 14:14:41 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 14:14:41 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 14:14:41 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 14:14:41 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 14:15:54 -> Conectando...
+15-12-2022 14:15:54 -> Verificando conexao com o banco...
+15-12-2022 14:15:54 -> Banco selecionado!
+15-12-2022 14:15:54 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 14:15:54 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 14:15:54 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 14:15:54 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:36:57 -> Conectando...
+15-12-2022 15:36:57 -> Verificando conexao com o banco...
+15-12-2022 15:36:57 -> Banco selecionado!
+15-12-2022 15:36:57 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 15:36:57 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:36:57 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 15:36:57 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:39:51 -> Conectando...
+15-12-2022 15:39:51 -> Verificando conexao com o banco...
+15-12-2022 15:39:51 -> Banco selecionado!
+15-12-2022 15:39:51 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 15:39:51 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:39:51 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 15:39:51 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:42:49 -> Conectando...
+15-12-2022 15:42:49 -> Verificando conexao com o banco...
+15-12-2022 15:42:49 -> Banco selecionado!
+15-12-2022 15:42:49 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 15:42:49 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:42:49 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 15:42:49 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:45:58 -> Conectando...
+15-12-2022 15:45:58 -> Verificando conexao com o banco...
+15-12-2022 15:45:58 -> Banco selecionado!
+15-12-2022 15:45:58 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 15:45:58 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:45:58 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 15:45:58 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:53:42 -> Conectando...
+15-12-2022 15:53:42 -> Verificando conexao com o banco...
+15-12-2022 15:53:42 -> Banco selecionado!
+15-12-2022 15:53:42 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 15:53:42 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:53:42 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 15:53:42 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:54:43 -> Conectando...
+15-12-2022 15:54:43 -> Verificando conexao com o banco...
+15-12-2022 15:54:43 -> Banco selecionado!
+15-12-2022 15:54:43 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 15:54:43 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 15:54:43 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 15:54:43 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 16:07:45 -> Conectando...
+15-12-2022 16:07:45 -> Verificando conexao com o banco...
+15-12-2022 16:07:45 -> Banco selecionado!
+15-12-2022 16:07:45 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 16:07:45 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 16:07:45 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 16:07:45 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 16:09:46 -> Conectando...
+15-12-2022 16:09:46 -> Verificando conexao com o banco...
+15-12-2022 16:09:46 -> Banco selecionado!
+15-12-2022 16:09:46 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 16:09:46 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 16:09:46 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 16:09:46 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 16:11:18 -> Conectando...
+15-12-2022 16:11:18 -> Verificando conexao com o banco...
+15-12-2022 16:11:18 -> Banco selecionado!
+15-12-2022 16:11:18 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 16:11:18 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 16:11:18 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 16:11:18 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 16:13:30 -> Erro ao chamar funcao da crud.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Claus)' at line 1
+15-12-2022 16:22:43 -> Conectando...
+15-12-2022 16:22:43 -> Verificando conexao com o banco...
+15-12-2022 16:22:43 -> Banco selecionado!
+15-12-2022 16:22:43 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 16:22:43 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 16:22:43 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 16:22:43 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 16:23:25 -> Erro ao chamar funcao da crud.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(2) where (lucas)' at line 1
+15-12-2022 19:33:25 -> Conectando...
+15-12-2022 19:33:25 -> Verificando conexao com o banco...
+15-12-2022 19:33:25 -> Banco selecionado!
+15-12-2022 19:33:25 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 19:33:25 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:33:25 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 19:33:25 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:35:57 -> Erro ao chamar funcao da crud.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Leonardo Bacchi where titi' at line 1
+15-12-2022 19:39:41 -> Conectando...
+15-12-2022 19:39:41 -> Verificando conexao com o banco...
+15-12-2022 19:39:41 -> Banco selecionado!
+15-12-2022 19:39:41 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 19:39:41 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:39:41 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 19:39:41 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:40:05 -> Conectando...
+15-12-2022 19:40:05 -> Verificando conexao com o banco...
+15-12-2022 19:40:05 -> Banco selecionado!
+15-12-2022 19:40:05 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 19:40:05 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:40:05 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 19:40:05 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:40:57 -> Erro ao chamar funcao da crud.
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Leonardo Bacchi where 25' at line 1
+15-12-2022 19:44:28 -> Conectando...
+15-12-2022 19:44:28 -> Verificando conexao com o banco...
+15-12-2022 19:44:28 -> Banco selecionado!
+15-12-2022 19:44:28 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 19:44:28 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:44:28 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 19:44:28 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:47:25 -> Conectando...
+15-12-2022 19:47:25 -> Verificando conexao com o banco...
+15-12-2022 19:47:25 -> Banco selecionado!
+15-12-2022 19:47:25 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 19:47:25 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:47:25 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 19:47:25 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:48:32 -> Conectando...
+15-12-2022 19:48:32 -> Verificando conexao com o banco...
+15-12-2022 19:48:32 -> Banco selecionado!
+15-12-2022 19:48:32 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 19:48:32 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:48:32 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 19:48:32 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:49:50 -> Conectando...
+15-12-2022 19:49:50 -> Verificando conexao com o banco...
+15-12-2022 19:49:50 -> Banco selecionado!
+15-12-2022 19:49:50 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 19:49:50 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:49:50 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 19:49:50 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 19:51:14 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: 'Lucas'
+15-12-2022 20:09:11 -> Conectando...
+15-12-2022 20:09:11 -> Verificando conexao com o banco...
+15-12-2022 20:09:11 -> Banco selecionado!
+15-12-2022 20:09:11 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 20:09:11 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:09:11 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 20:09:11 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:10:40 -> Erro ao chamar funcao da crud.
+1054 (42S22): Unknown column 'iran' in 'field list'
+15-12-2022 20:11:59 -> Conectando...
+15-12-2022 20:11:59 -> Verificando conexao com o banco...
+15-12-2022 20:11:59 -> Banco selecionado!
+15-12-2022 20:11:59 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 20:11:59 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:11:59 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 20:11:59 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:13:20 -> Erro ao chamar funcao da crud.
+1054 (42S22): Unknown column 'Senegall' in 'field list'
+15-12-2022 20:14:50 -> Conectando...
+15-12-2022 20:14:50 -> Verificando conexao com o banco...
+15-12-2022 20:14:50 -> Banco selecionado!
+15-12-2022 20:14:50 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 20:14:50 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:14:50 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 20:14:50 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:15:55 -> Conectando...
+15-12-2022 20:15:55 -> Verificando conexao com o banco...
+15-12-2022 20:15:55 -> Banco selecionado!
+15-12-2022 20:15:55 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 20:15:55 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:15:55 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 20:15:55 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:16:49 -> Erro ao chamar funcao da crud.
+1054 (42S22): Unknown column 'nome_equipe' in 'field list'
+15-12-2022 20:21:11 -> Conectando...
+15-12-2022 20:21:11 -> Verificando conexao com o banco...
+15-12-2022 20:21:11 -> Banco selecionado!
+15-12-2022 20:21:11 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 20:21:11 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:21:11 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 20:21:11 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:21:59 -> Erro ao chamar funcao da crud.
+1054 (42S22): Unknown column 'lucas' in 'field list'
+15-12-2022 20:24:16 -> Conectando...
+15-12-2022 20:24:16 -> Verificando conexao com o banco...
+15-12-2022 20:24:16 -> Banco selecionado!
+15-12-2022 20:24:16 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 20:24:16 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:24:16 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 20:24:16 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:25:44 -> Erro ao chamar funcao da crud.
+1054 (42S22): Unknown column 'iran' in 'field list'
+15-12-2022 20:40:43 -> Conectando...
+15-12-2022 20:40:43 -> Verificando conexao com o banco...
+15-12-2022 20:40:43 -> Banco selecionado!
+15-12-2022 20:40:43 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 20:40:43 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:40:43 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 20:40:43 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:43:14 -> Conectando...
+15-12-2022 20:43:14 -> Verificando conexao com o banco...
+15-12-2022 20:43:14 -> Banco selecionado!
+15-12-2022 20:43:14 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 20:43:14 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:43:14 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 20:43:14 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 20:44:01 -> Erro ao chamar funcao da crud.
+1054 (42S22): Unknown column 'Holanda' in 'field list'
+15-12-2022 21:33:57 -> Conectando...
+15-12-2022 21:33:57 -> Verificando conexao com o banco...
+15-12-2022 21:33:57 -> Banco selecionado!
+15-12-2022 21:33:58 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 21:33:58 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 21:33:58 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 21:33:58 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 21:35:06 -> Conectando...
+15-12-2022 21:35:06 -> Verificando conexao com o banco...
+15-12-2022 21:35:06 -> Banco selecionado!
+15-12-2022 21:35:06 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 21:35:06 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 21:35:06 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 21:35:06 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 21:35:59 -> Erro ao chamar funcao da crud.
+1054 (42S22): Unknown column 'Joseane Arocha' in 'field list'
+15-12-2022 22:37:00 -> Conectando...
+15-12-2022 22:37:00 -> Verificando conexao com o banco...
+15-12-2022 22:37:00 -> Banco selecionado!
+15-12-2022 22:37:00 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 22:37:00 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 22:37:00 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 22:37:00 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 22:37:14 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: ''
+15-12-2022 22:37:58 -> Conectando...
+15-12-2022 22:37:58 -> Verificando conexao com o banco...
+15-12-2022 22:37:58 -> Banco selecionado!
+15-12-2022 22:37:58 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 22:37:58 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 22:37:58 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 22:37:58 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 22:38:27 -> Erro ao chamar funcao da crud.
+1054 (42S22): Unknown column 'Lucas Alves' in 'field list'
+15-12-2022 22:40:05 -> Conectando...
+15-12-2022 22:40:05 -> Verificando conexao com o banco...
+15-12-2022 22:40:05 -> Banco selecionado!
+15-12-2022 22:40:05 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 22:40:05 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 22:40:05 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 22:40:05 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 22:53:12 -> Conectando...
+15-12-2022 22:53:12 -> Verificando conexao com o banco...
+15-12-2022 22:53:12 -> Banco selecionado!
+15-12-2022 22:53:12 -> Erro ao chamar funcao da crud.
+selectEquipe() missing 1 required positional argument: 'condicaoPk'
+15-12-2022 22:53:12 -> Erro ao chamar funcao da crud.
+selectFase() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 22:53:12 -> Erro ao chamar funcao da crud.
+selectGrupo() missing 1 required positional argument: 'condicao3'
+15-12-2022 22:53:12 -> Erro ao chamar funcao da crud.
+selectPartidas() missing 7 required positional arguments: 'condicao3', 'condicao4', 'condicao5', 'condicao6', 'condicaoPk1', 'condicaoPk2', and 'condicaoPk3'
+15-12-2022 23:08:39 -> Conectando...
+15-12-2022 23:08:39 -> Verificando conexao com o banco...
+15-12-2022 23:08:39 -> Banco selecionado!
+15-12-2022 23:09:04 -> Erro ao chamar funcao da crud.
+module 'db.crud.insert' has no attribute 'selecionar'
+15-12-2022 23:23:24 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: ''
+15-12-2022 23:23:42 -> Conectando...
+15-12-2022 23:23:42 -> Verificando conexao com o banco...
+15-12-2022 23:23:42 -> Banco selecionado!
+15-12-2022 23:24:20 -> Erro ao chamar funcao da crud.
+module 'db.crud.insert' has no attribute 'selecionar'
+15-12-2022 23:25:15 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: ''
+15-12-2022 23:25:22 -> Conectando...
+15-12-2022 23:25:22 -> Verificando conexao com o banco...
+15-12-2022 23:25:22 -> Banco selecionado!
+15-12-2022 23:25:37 -> Erro ao chamar funcao da crud.
+module 'db.crud.insert' has no attribute 'selecionar'
+15-12-2022 23:27:45 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: ''
+15-12-2022 23:27:55 -> Conectando...
+15-12-2022 23:27:55 -> Verificando conexao com o banco...
+15-12-2022 23:27:55 -> Banco selecionado!
+15-12-2022 23:28:00 -> Erro ao chamar funcao da crud.
+module 'db.crud.insert' has no attribute 'selecionar'
+15-12-2022 23:28:52 -> Erro ao chamar funcao da crud.
+
+15-12-2022 23:28:53 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: ''
+15-12-2022 23:29:01 -> Conectando...
+15-12-2022 23:29:01 -> Verificando conexao com o banco...
+15-12-2022 23:29:01 -> Banco selecionado!
+15-12-2022 23:29:13 -> Erro ao chamar funcao da crud.
+cannot access local variable 'valores' where it is not associated with a value
+15-12-2022 23:29:18 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: ''
+15-12-2022 23:29:49 -> Conectando...
+15-12-2022 23:29:49 -> Verificando conexao com o banco...
+15-12-2022 23:29:49 -> Banco selecionado!
+15-12-2022 23:30:08 -> Erro ao chamar funcao da crud.
+cannot access local variable 'valores' where it is not associated with a value
+15-12-2022 23:30:32 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: ''
+15-12-2022 23:30:38 -> Conectando...
+15-12-2022 23:30:38 -> Verificando conexao com o banco...
+15-12-2022 23:30:38 -> Banco selecionado!
+15-12-2022 23:30:52 -> Erro ao chamar funcao da crud.
+cannot access local variable 'valores' where it is not associated with a value
+15-12-2022 23:35:07 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: ''
+15-12-2022 23:35:17 -> Conectando...
+15-12-2022 23:35:17 -> Verificando conexao com o banco...
+15-12-2022 23:35:17 -> Banco selecionado!
+15-12-2022 23:35:35 -> Erro ao chamar funcao da crud.
+cannot access local variable 'valores' where it is not associated with a value
+15-12-2022 23:36:49 -> Erro ao chamar funcao da crud.
+invalid literal for int() with base 10: ''
+15-12-2022 23:36:58 -> Conectando...
+15-12-2022 23:36:58 -> Verificando conexao com o banco...
+15-12-2022 23:36:58 -> Banco selecionado!
+15-12-2022 23:37:15 -> Erro ao chamar funcao da crud.
+cannot access local variable 'valores' where it is not associated with a value
+15-12-2022 23:48:27 -> Conectando...
+15-12-2022 23:48:27 -> Verificando conexao com o banco...
+15-12-2022 23:48:27 -> Banco selecionado!
+15-12-2022 23:48:53 -> Erro ao chamar funcao da crud.
+cannot access local variable 'valores' where it is not associated with a value
+15-12-2022 23:50:33 -> Conectando...
+15-12-2022 23:50:33 -> Verificando conexao com o banco...
+15-12-2022 23:50:33 -> Banco selecionado!
+15-12-2022 23:50:44 -> Erro ao executar `def selecionar`:
+1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',' at line 1
+15-12-2022 23:51:19 -> Conectando...
+15-12-2022 23:51:19 -> Verificando conexao com o banco...
+15-12-2022 23:51:19 -> Banco selecionado!
+15-12-2022 23:51:30 -> `def selecionar` resultado:
+[]
+15-12-2022 23:51:50 -> Conectando...
+15-12-2022 23:51:50 -> Verificando conexao com o banco...
+15-12-2022 23:51:50 -> Banco selecionado!
+15-12-2022 23:52:03 -> `def selecionar` resultado:
+[]
+15-12-2022 23:53:13 -> Conectando...
+15-12-2022 23:53:13 -> Verificando conexao com o banco...
+15-12-2022 23:53:13 -> Banco selecionado!
+15-12-2022 23:53:23 -> `def selecionar` resultado:
+[(2, 'Wilton Pereira Sampaio')]
+15-12-2022 23:53:54 -> Conectando...
+15-12-2022 23:53:54 -> Verificando conexao com o banco...
+15-12-2022 23:53:54 -> Banco selecionado!
+15-12-2022 23:54:38 -> `def selecionar` resultado:
+[(33, 'Paula Santos')]
+15-12-2022 23:55:45 -> Conectando...
+15-12-2022 23:55:45 -> Verificando conexao com o banco...
+15-12-2022 23:55:45 -> Banco selecionado!
+15-12-2022 23:56:09 -> `def selecionar` resultado:
+[]
+15-12-2022 23:56:31 -> Conectando...
+15-12-2022 23:56:31 -> Verificando conexao com o banco...
+15-12-2022 23:56:31 -> Banco selecionado!
+15-12-2022 23:56:42 -> `def selecionar` resultado:
+[(33, 'Paula Santos')]
+15-12-2022 23:57:35 -> Conectando...
+15-12-2022 23:57:35 -> Verificando conexao com o banco...
+15-12-2022 23:57:35 -> Banco selecionado!
+15-12-2022 23:57:48 -> `def selecionar` resultado:
+[(33, 'Paula Santos')]
